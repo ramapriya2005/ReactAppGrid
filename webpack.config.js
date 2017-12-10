@@ -15,7 +15,7 @@ var config = {
             exclude: /node_modules/,
             loader: 'babel-loader',
             query: {
-               presets: ['es2017', 'react']
+               presets: ['es2015', 'react']
             }
          }
       ]
